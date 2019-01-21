@@ -6,3 +6,6 @@
 2. activate it and run predict.py as : python predict.py in terminal or cmd
 3. Access the project on localhost:5000/static/LiveStream.html
 
+
+
+### Winner of IHack 2019(ECell IITB)
