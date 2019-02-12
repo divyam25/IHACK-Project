@@ -1,6 +1,11 @@
 # IHACK-Project
+## Team OathBreakers (NIT Surat)
+- Kshitij Suri
+- Rajat Sharma
+- Divyam Srivastava
+- Rishabh Sharma
 
-#Running the Web project
+### Running the Web project
 
 1. Set up the flask development environment
 2. activate it and run predict.py as : python predict.py in terminal or cmd
@@ -9,3 +14,4 @@
 
 
 ### Winner of IHack 2019(ECell IITB)
+
